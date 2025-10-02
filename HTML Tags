@@ -1,0 +1,18 @@
+IM raiber, just to let you know. Im going to tell you the most used Used HTML tags.
+1.Structural Tags:
+<html>: The root element of an HTML page.
+<head>: Contains meta-information about the HTML document, such as the title, character set, and links to stylesheets.
+<title>: Defines the title of the document, displayed in the browser tab or window title bar.
+<body>: Contains the visible content of the web page.
+<div>: Defines a division or a section in an HTML document, often used for layout and styling with CSS.
+<span>: Defines an inline container for text or other inline elements, often used for styling specific parts of text.
+ Text Formatting Tags:
+<h1> to <h6>: Define headings of different sizes, with <h1> being the largest and <h6> the smallest.
+<p>: Defines a paragraph of text.
+<b> or <strong>: Used to make text bold or indicate strong importance.
+<i> or <em>: Used to make text italic or indicate emphasis.
+<br>: Inserts a single line break.
+<hr>: Defines a thematic break or a horizontal rule.
+Link and Image Tags:
+<a>: Defines a hyperlink, used to link from one page to another or to a specific section within the same page.
+<img>: Embeds an image into the HTML document.
